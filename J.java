@@ -23,4 +23,8 @@ public class J implements K {
     public int cc() {
         return 42;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
