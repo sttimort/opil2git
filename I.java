@@ -19,4 +19,8 @@ public class I implements K {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
