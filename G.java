@@ -11,4 +11,8 @@ public class G extends I {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
